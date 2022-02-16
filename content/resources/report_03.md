@@ -7,8 +7,13 @@ description: 'Example of student work: final design report on rapid modeling of 
   benefits over a large space of rover architectures by varying mission science and
   design parameters. Future missions, including the 2009 Mars Science Laboratory (MSL),
   can benefit from the trade space analysis provided by this tool.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-89j-space-systems-engineering-spring-2007/96dda38a45e22490f69a72d8a635af09_report_03.pdf
+file: /media/courses/16-89j-space-systems-engineering-spring-2007/96dda38a45e22490f69a72d8a635af09_report_03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Extensible Planetary Surface Mobility Systems: Rapid Modeling of Mars Robotic
   Explorers Critical Design Review'

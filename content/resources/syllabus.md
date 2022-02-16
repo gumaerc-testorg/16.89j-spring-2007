@@ -4,8 +4,12 @@ description: Syllabus for the course providing a general description of the cour
   organizational structure, schedule and work breakdown structure, program schedule,
   lecture and laboratory schedule, deliverables, module development, communications,
   grading, and resources.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-89j-space-systems-engineering-spring-2007/a8b9ba58d9fcd431a84e681a4a32eeee_syllabus.pdf
+file: /media/courses/16-89j-space-systems-engineering-spring-2007/a8b9ba58d9fcd431a84e681a4a32eeee_syllabus.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: Syllabus
 uid: a8b9ba58-d9fc-d431-a84e-681a4a32eeee

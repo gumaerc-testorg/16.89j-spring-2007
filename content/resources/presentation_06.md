@@ -12,8 +12,13 @@ description: 'Example of student work: project presentation on an extensible pla
   to Antarctic research stations. Later missions would begin Mars development, beginning
   around 2030, using conjunction-class trajectories to provide surface stays of 500-600
   days.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-89j-space-systems-engineering-spring-2007/68578981bacd42a67b431cad987a6853_presentation_06.pdf
+file: /media/courses/16-89j-space-systems-engineering-spring-2007/68578981bacd42a67b431cad987a6853_presentation_06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 16.89 / ESD 352 Final Design Review
 uid: 68578981-bacd-42a6-7b43-1cad987a6853

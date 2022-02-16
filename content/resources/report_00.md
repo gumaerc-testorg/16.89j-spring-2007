@@ -7,8 +7,13 @@ description: 'Example of student work: final design report on project to establi
   improved opportunities for international cooperation as well as increasing public
   awareness and involvement in Mars exploration. Ultimately, the Mars infrastructure
   will be a key enabler for establishing a human presence on Mars.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-89j-space-systems-engineering-spring-2007/3b763b61f12d1387cc1ad7a7c1da2b39_report_00.pdf
+file: /media/courses/16-89j-space-systems-engineering-spring-2007/3b763b61f12d1387cc1ad7a7c1da2b39_report_00.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Project MINERVA: Establish an Enabling Space Infrastructure that will Support
   the Exploration of Mars'

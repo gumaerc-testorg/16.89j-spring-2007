@@ -8,8 +8,13 @@ description: 'Example of student work: final design report on a lunar telescope 
   and basis for reconsideration of the Moon as the location of an astronomical observatory,
   this report provides a thorough investigation into the design of a lunar telescope
   facility.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-89j-space-systems-engineering-spring-2007/891eae2ef125b3cd52c96168c8503f67_report.pdf
+file: /media/courses/16-89j-space-systems-engineering-spring-2007/891eae2ef125b3cd52c96168c8503f67_report.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Lunar Telescope Facility
 uid: 891eae2e-f125-b3cd-52c9-6168c8503f67

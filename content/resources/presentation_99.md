@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Example of student work: critical design review of a terrestrial planet
   finder mission.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-89j-space-systems-engineering-spring-2007/9ae9bc14b6e22c73557dc266d1c34001_presentation_99.pdf
+file: /media/courses/16-89j-space-systems-engineering-spring-2007/9ae9bc14b6e22c73557dc266d1c34001_presentation_99.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Terrestrial Planet Finder Mission: Critical Design Review'
 uid: 9ae9bc14-b6e2-2c73-557d-c266d1c34001

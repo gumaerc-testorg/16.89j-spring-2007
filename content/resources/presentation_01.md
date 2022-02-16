@@ -9,8 +9,13 @@ description: 'Example of student work: project presentation on a swarm-based spa
   Air Force Research Laboratory (AFRL). Furthermore, the Space Policy and Architecture
   Research Center (SSPARC) is also interested in seeing the implementation of the
   Multi-Attribute Utility Analysis (MAUA) for a real space system.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-89j-space-systems-engineering-spring-2007/11dd7df22104e427d9a157afdf873cc7_presentation_01.pdf
+file: /media/courses/16-89j-space-systems-engineering-spring-2007/11dd7df22104e427d9a157afdf873cc7_presentation_01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: B-Terrestrial Observer Swarm (B-TOS)
 uid: 11dd7df2-2104-e427-d9a1-57afdf873cc7
