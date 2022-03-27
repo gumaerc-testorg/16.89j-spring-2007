@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: "Paradigm Shift in Design for NASA\u2019s New Exploration Initiative"
 uid: 4ae5350e-8755-07f4-1595-1321ce319ea4

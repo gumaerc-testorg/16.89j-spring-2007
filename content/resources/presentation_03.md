@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: 'Rapid Modeling of Mars Robotic Explorers: Critical Design Review'
 uid: b2f21b8e-5213-8407-c8ad-358f308b7b4c

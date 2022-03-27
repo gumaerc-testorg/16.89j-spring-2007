@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: 'ASTRO: Architecting the Search for Terrestrial planets and Related Origins'
 uid: 44f7c472-2478-01d2-9c41-95a90d873e6f

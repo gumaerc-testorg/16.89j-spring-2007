@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: 'Extensible Planetary Surface Mobility Systems: Rapid Modeling of Mars Robotic
   Explorers Critical Design Review'

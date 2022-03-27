@@ -16,6 +16,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: 'B-TOS: Terrestrial Observer Swarm'
 uid: 8cd1b68f-be3f-b4bb-fc57-ef7a709449a5

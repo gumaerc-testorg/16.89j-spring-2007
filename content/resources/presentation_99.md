@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: 'Terrestrial Planet Finder Mission: Critical Design Review'
 uid: 9ae9bc14-b6e2-2c73-557d-c266d1c34001

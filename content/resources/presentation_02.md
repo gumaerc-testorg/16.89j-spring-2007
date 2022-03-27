@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: 'X-TOS: Preliminary Design Review'
 uid: 7254a48a-d794-7719-6c2a-da861f7a4997

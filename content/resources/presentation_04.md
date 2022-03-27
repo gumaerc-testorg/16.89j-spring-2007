@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: "Paradigm Shift in Design for NASA\u2019s New Exploration Initiative: The result\
   \ of MIT\u2019s space systems engineering graduate design class study"

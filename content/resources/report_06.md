@@ -19,6 +19,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 resourcetype: Document
 title: Extensible Planetary Surface Mobility Systems
 uid: 95d926e5-1c8a-1182-819f-ecd66aec5dfb
