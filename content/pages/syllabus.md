@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on the motivation, challenge,
+  approach, expected outcomes, and recommended texts for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 25f856bb-5615-0670-d6d5-96cad361f423
 ---
@@ -28,7 +32,7 @@ This will require not only consideration of scientific objectives and telescope 
 
 > Location of a Lunar Telescope (lunar poles North or South, mid-latitudes, equatorial location, in-space at a Lagrange point EML1, EML2 or ESL2).
 > 
-> Wavelength Band of a Lunar Telescope (radio frequency (e.g. <30 MHz), submillimeter, IR, visual, UV)\*.
+> Wavelength Band of a Lunar Telescope (radio frequency (e.g. \<30 MHz), submillimeter, IR, visual, UV){{< sup "\*" >}}.
 > 
 > Architecture of a Lunar Telescope (aperture size, monolithic, segmented aperture, interferometer/distributed array).
 
@@ -38,7 +42,7 @@ There is significant ambiguity in this project and your challenge is to create s
 
 _What type of lunar telescope facility would deliver the most scientific value, while leveraging the proposed crewed lunar transportation architecture and ensuring both technical and budgetary feasibility?_
 
-\*We will not be considering X-Rays or Gamma Rays.
+{{< sup "\*" >}}We will not be considering X-Rays or Gamma Rays.
 
 Approach
 --------
@@ -70,7 +74,7 @@ NASA is interested in the outcomes of this project, and we have filed a Trade De
 
 The Space Telescope Science Institute (STSCI) is the external sponsor of the project.
 
-This file includes further information on the project and other details regarding the course. ([PDF]({{< baseurl >}}/resources/syllabus))
+This file includes further information on the project and other details regarding the course. ({{% resource_link a8b9ba58-d9fc-d431-a84e-681a4a32eeee "PDF" %}})
 
 Recommended Texts
 -----------------

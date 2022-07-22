@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides examples of completed student projects.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 244945a8-15a4-b2a3-af2a-20384f403eab
 ---
@@ -36,9 +40,9 @@ The National Aeronautics and Space Administration (NASA) has outlined plans to r
 {{< tdopen >}}
 
 
-Presentation ([PDF - 1.7 MB]({{< baseurl >}}/resources/presentation))
+Presentation ({{% resource_link 399736dc-4d91-c7cd-8f97-b6a4c9a9f52d "PDF - 1.7 MB" %}})
 
-Report ([PDF - 4.5 MB]({{< baseurl >}}/resources/report))
+Report ({{% resource_link 891eae2e-f125-b3cd-52c9-6168c8503f67 "PDF - 4.5 MB" %}})
 
 
 {{< tdclose >}}
@@ -63,9 +67,9 @@ The VSE calls for human exploration of the Moon, preparing the way for human Mar
 {{< tdopen >}}
 
 
-Presentation ([PDF - 2.0 MB]({{< baseurl >}}/resources/presentation_06))
+Presentation ({{% resource_link 68578981-bacd-42a6-7b43-1cad987a6853 "PDF - 2.0 MB" %}})
 
-Report ([PDF - 6.5 MB]({{< baseurl >}}/resources/report_06))
+Report ({{% resource_link 95d926e5-1c8a-1182-819f-ecd66aec5dfb "PDF - 6.5 MB" %}})
 
 
 {{< tdclose >}}
@@ -84,9 +88,9 @@ On January 14, 2004, President George W. Bush presented the nation with a bold n
 {{< tdopen >}}
 
 
-Presentation ([PDF - 1.0 MB]({{< baseurl >}}/resources/presentation_04))
+Presentation ({{% resource_link 865e31e3-cf39-3bef-1ead-59324a173cf7 "PDF - 1.0 MB" %}})
 
-Report ([PDF - 7.8 MB]({{< baseurl >}}/resources/report_04))
+Report ({{% resource_link 4ae5350e-8755-07f4-1595-1321ce319ea4 "PDF - 7.8 MB" %}})
 
 
 {{< tdclose >}}
@@ -105,9 +109,9 @@ The Rapid Modeling of Mars Robotic Explorers project is motivated by the need to
 {{< tdopen >}}
 
 
-Presentation ([PDF - 1.6 MB]({{< baseurl >}}/resources/presentation_03))
+Presentation ({{% resource_link b2f21b8e-5213-8407-c8ad-358f308b7b4c "PDF - 1.6 MB" %}})
 
-Report ([PDF - 3.6 MB]({{< baseurl >}}/resources/report_03))
+Report ({{% resource_link 96dda38a-45e2-2490-f69a-72d8a635af09 "PDF - 3.6 MB" %}})
 
 
 {{< tdclose >}}
@@ -126,9 +130,9 @@ Design a conceptual space-based space system to characterize the upper atmospher
 {{< tdopen >}}
 
 
-Presentation ([PDF - 4.1 MB]({{< baseurl >}}/resources/presentation_02))
+Presentation ({{% resource_link 7254a48a-d794-7719-6c2a-da861f7a4997 "PDF - 4.1 MB" %}})
 
-Report ([PDF - 1.8 MB]({{< baseurl >}}/resources/report_02))
+Report ({{% resource_link 5fc1ccc3-c22d-6418-d107-a1bbd721c516 "PDF - 1.8 MB" %}})
 
 
 {{< tdclose >}}
@@ -147,9 +151,9 @@ The purpose of this document is to describe and summarize the process completed 
 {{< tdopen >}}
 
 
-Presentation ([PDF]({{< baseurl >}}/resources/presentation_01))
+Presentation ({{% resource_link 11dd7df2-2104-e427-d9a1-57afdf873cc7 "PDF" %}})
 
-Report ([PDF - 2.0 MB]({{< baseurl >}}/resources/report_01))
+Report ({{% resource_link 8cd1b68f-be3f-b4bb-fc57-ef7a709449a5 "PDF - 2.0 MB" %}})
 
 
 {{< tdclose >}}
@@ -168,9 +172,9 @@ The Mars infrastructure will enhance the capabilities of future robotic missions
 {{< tdopen >}}
 
 
-Presentation ([PDF - 3.4 MB]({{< baseurl >}}/resources/presentation_00))
+Presentation ({{% resource_link 005f3a13-f6ff-affa-ef72-bbfdf7e62f79 "PDF - 3.4 MB" %}})
 
-Report ([PDF - 2.2 MB]({{< baseurl >}}/resources/report_00))
+Report ({{% resource_link 3b763b61-f12d-1387-cc1a-d7a7c1da2b39 "PDF - 2.2 MB" %}})
 
 
 {{< tdclose >}}
@@ -189,9 +193,9 @@ A fundamental activity during the conceptual design phase for a large project is
 {{< tdopen >}}
 
 
-Presentation ([PDF - 1.0 MB]({{< baseurl >}}/resources/presentation_99))
+Presentation ({{% resource_link 9ae9bc14-b6e2-2c73-557d-c266d1c34001 "PDF - 1.0 MB" %}})
 
-Report ([PDF - 2.9 MB]({{< baseurl >}}/resources/report_99))
+Report ({{% resource_link 44f7c472-2478-01d2-9c41-95a90d873e6f "PDF - 2.9 MB" %}})
 
 
 {{< tdclose >}}
