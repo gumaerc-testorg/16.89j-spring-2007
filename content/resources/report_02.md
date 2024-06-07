@@ -4,6 +4,7 @@ description: 'Example of student work: final design report for a conceptual spac
   space system to characterize the upper atmosphere with specific emphasis on the
   thermosphere and ionosphere.'
 file: /courses/16-89j-space-systems-engineering-spring-2007/5fc1ccc3c22d6418d107a1bbd721c516_report_02.pdf
+file_size: 1886895
 file_type: application/pdf
 learning_resource_types:
 - Projects
