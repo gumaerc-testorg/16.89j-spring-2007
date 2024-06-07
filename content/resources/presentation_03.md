@@ -8,6 +8,7 @@ description: 'Example of student work: project presentation on rapid modeling of
   design parameters. Future missions, including the 2009 Mars Science Laboratory (MSL),
   can benefit from the trade space analysis provided by this tool.'
 file: /courses/16-89j-space-systems-engineering-spring-2007/b2f21b8e52138407c8ad358f308b7b4c_presentation_03.pdf
+file_size: 1630323
 file_type: application/pdf
 learning_resource_types:
 - Projects

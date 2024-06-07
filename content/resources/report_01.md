@@ -10,6 +10,7 @@ description: 'Example of student work: final design report on a swarm-based spac
   Research Center (SSPARC) is also interested in seeing the implementation of the
   Multi-Attribute Utility Analysis (MAUA) for a real space system.'
 file: /courses/16-89j-space-systems-engineering-spring-2007/8cd1b68fbe3fb4bbfc57ef7a709449a5_report_01.pdf
+file_size: 2019196
 file_type: application/pdf
 learning_resource_types:
 - Projects
