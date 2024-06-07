@@ -7,6 +7,7 @@ description: 'Assignment to map out the key relationships between angular resolu
   key aspects of the problem such as imaging performance in terms of isolation and
   sensitivity, system mass, system cost and location.'
 file: /courses/16-89j-space-systems-engineering-spring-2007/0e58d5de69222788d3e5ca011fc87339_assignment_2.pdf
+file_size: 93284
 file_type: application/pdf
 learning_resource_types:
 - Assignments
