@@ -7,7 +7,7 @@ description: 'Example of student work: Presentation on project to establish an e
   for international cooperation as well as increasing public awareness and involvement
   in Mars exploration. Ultimately, the Mars infrastructure will be a key enabler for
   establishing a human presence on Mars.'
-file: /courses/16-89j-space-systems-engineering-spring-2007/005f3a13f6ffaffaef72bbfdf7e62f79_presentation_00.pdf
+file: /ol-ocw-studio-app/courses/16-89j-space-systems-engineering-spring-2007/005f3a13f6ffaffaef72bbfdf7e62f79_presentation_00.pdf
 file_size: 3797040
 file_type: application/pdf
 learning_resource_types:
