@@ -3,7 +3,7 @@ content_type: resource
 description: 'Example of student work: preliminary design review for a conceptual
   space-based space system to characterize the upper atmosphere with specific emphasis
   on the thermosphere and ionosphere.'
-file: /courses/16-89j-space-systems-engineering-spring-2007/7254a48ad79477196c2ada861f7a4997_presentation_02.pdf
+file: /ol-ocw-studio-app/courses/16-89j-space-systems-engineering-spring-2007/7254a48ad79477196c2ada861f7a4997_presentation_02.pdf
 file_size: 4340037
 file_type: application/pdf
 learning_resource_types:

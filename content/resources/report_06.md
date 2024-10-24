@@ -12,7 +12,7 @@ description: 'Example of student work: final design report on an extensible plan
   to Antarctic research stations. Later missions would begin Mars development, beginning
   around 2030, using conjunction-class trajectories to provide surface stays of 500-600
   days.'
-file: /courses/16-89j-space-systems-engineering-spring-2007/95d926e51c8a1182819fecd66aec5dfb_report_06.pdf
+file: /ol-ocw-studio-app/courses/16-89j-space-systems-engineering-spring-2007/95d926e51c8a1182819fecd66aec5dfb_report_06.pdf
 file_size: 6779818
 file_type: application/pdf
 learning_resource_types:

@@ -4,7 +4,7 @@ description: "Example of student work: project presentation on design for NASA's
   \ exploration initiative. The report makes the case that the primary purpose of\
   \ an exploration system is the delivery of knowledge to the stakeholders, and that\
   \ the design should be evaluated with respect to knowledge.\r\n\r\n"
-file: /courses/16-89j-space-systems-engineering-spring-2007/865e31e3cf393bef1ead59324a173cf7_presentation_04.pdf
+file: /ol-ocw-studio-app/courses/16-89j-space-systems-engineering-spring-2007/865e31e3cf393bef1ead59324a173cf7_presentation_04.pdf
 file_size: 1075452
 file_type: application/pdf
 learning_resource_types:
