@@ -8,7 +8,7 @@ description: 'Example of student work: project presentation on a lunar telescope
   and basis for reconsideration of the Moon as the location of an astronomical observatory,
   this report provides a thorough investigation into the design of a lunar telescope
   facility.'
-file: /ol-ocw-studio-app/courses/16-89j-space-systems-engineering-spring-2007/399736dc4d91c7cd8f97b6a4c9a9f52d_presentation.pdf
+file: /courses/16-89j-space-systems-engineering-spring-2007/399736dc4d91c7cd8f97b6a4c9a9f52d_presentation.pdf
 file_size: 1756480
 file_type: application/pdf
 learning_resource_types:
