@@ -12,7 +12,7 @@ description: 'Example of student work: project presentation on an extensible pla
   to Antarctic research stations. Later missions would begin Mars development, beginning
   around 2030, using conjunction-class trajectories to provide surface stays of 500-600
   days.'
-file: /courses/16-89j-space-systems-engineering-spring-2007/68578981bacd42a67b431cad987a6853_presentation_06.pdf
+file: /ol-ocw-studio-app/courses/16-89j-space-systems-engineering-spring-2007/68578981bacd42a67b431cad987a6853_presentation_06.pdf
 file_size: 2111430
 file_type: application/pdf
 learning_resource_types:
