@@ -7,7 +7,7 @@ description: 'Example of student work: final design report on rapid modeling of 
   benefits over a large space of rover architectures by varying mission science and
   design parameters. Future missions, including the 2009 Mars Science Laboratory (MSL),
   can benefit from the trade space analysis provided by this tool.'
-file: /courses/16-89j-space-systems-engineering-spring-2007/96dda38a45e22490f69a72d8a635af09_report_03.pdf
+file: /ol-ocw-studio-app/courses/16-89j-space-systems-engineering-spring-2007/96dda38a45e22490f69a72d8a635af09_report_03.pdf
 file_size: 3810105
 file_type: application/pdf
 learning_resource_types:
